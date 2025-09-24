@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vision.md",
+                "file": "Clippings/open, reproducible stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vision"
+              "title": "open, reproducible stack"
             }
           }
         ]
@@ -171,6 +171,14 @@
   },
   "active": "c96c35560688e220",
   "lastOpenFiles": [
+    "Where are we?.md",
+    "Untitled.md",
+    "Clippings/D4M Hazoo OLAP RDBMS.md",
+    "Clippings/How HAPI stores & searches.md",
+    "Clippings/open, reproducible stack.md",
+    "GPT ideas.md",
+    "Likely target.md",
+    "Clippings",
     "Vision.md"
   ]
 }
