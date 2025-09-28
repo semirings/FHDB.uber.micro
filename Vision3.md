@@ -6,4 +6,21 @@ D4M, HAZoo work together with AA as the binding agent.
 
 ACRONYMS PARADE ACROSS THE SCREEN FHIR, NARRATIVE, SPREADSHEET
 
-NARRATOR
+**<p style="text-align:center;">**
+
+**NARRATOR**
+
+**</p>**
+Health analytics is a thing.  
+
+PHRASE SLIDES IN FROM RIGHT TO CENTER.  FIREWORK
+**<p style="text-align:center;">**
+
+**NARRATOR**
+
+**</p>**
+Makes you wonder.   We can see some data.  
+
+PARADE EHR CDA
+
+How much of our data is hiding? 
