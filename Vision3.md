@@ -21,6 +21,19 @@ PHRASE SLIDES IN FROM RIGHT TO CENTER.  FIREWORK
 **</p>**
 Makes you wonder.   We can see some data.  
 
-PARADE EHR CDA
+PARADE EHR CDA PACS APPOINTMENTS STAFFING BILLING CLAIMS ET.AL.
+**<p style="text-align:center;">**
 
-How much of our data is hiding? 
+**NARRATOR**
+
+**</p>**
+Can we relate different sources? Make connections? And what about all that ad-hoc business?
+
+PARADE SPREADSHEETS CSV MESSAGING ET.AL.
+
+ **<p style="text-align:center;">**
+
+**NARRATOR**
+
+**</p>**
+ Makes you wonder.   How much of our data is hiding? 
