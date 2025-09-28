@@ -169,16 +169,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "c96c35560688e220",
+  "active": "da733d905c1fef7c",
   "lastOpenFiles": [
-    "Vision3.md",
     "Vision.md",
+    "Vision3.md",
+    "GPT ideas.md",
+    "Vision 2.md",
+    "Vision 1.md",
+    "Clippings/Who we’re talking to.md",
+    "Clippings/Explainer intro (≈90 seconds).md",
     "Clippings/open, reproducible stack.md",
     "Untitled.md",
     "Where are we?.md",
     "Clippings/D4M Hazoo OLAP RDBMS.md",
     "Clippings/How HAPI stores & searches.md",
-    "GPT ideas.md",
     "Likely target.md",
     "Clippings"
   ]
