@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vision 2.md",
+                "file": "GPT ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vision 2"
+              "title": "GPT ideas"
             }
           }
         ]
@@ -171,13 +171,13 @@
   },
   "active": "c96c35560688e220",
   "lastOpenFiles": [
-    "GPT ideas.md",
     "Vision 2.md",
     "Vision 1.md",
     "Clippings/Who we’re talking to.md",
     "Clippings/Explainer intro (≈90 seconds).md",
-    "Vision3.md",
     "Vision.md",
+    "Vision3.md",
+    "GPT ideas.md",
     "Clippings/open, reproducible stack.md",
     "Untitled.md",
     "Where are we?.md",
