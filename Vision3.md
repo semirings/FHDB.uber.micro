@@ -4,7 +4,7 @@ D4M, HAZoo work together with AA as the binding agent.
 
 ## Script
 
-ACRONYMS PARADE ACROSS THE SCREEN FHIR, NARRATIVE, SPREADSHEET
+OPEN TO A BLANK SCREEN AN HDRI (TBD). THE TITLE ENTERS RIGHT STOPS CENTERED.
 
 **<p style="text-align:center;">**
 
@@ -37,3 +37,16 @@ PARADE SPREADSHEETS CSV MESSAGING ET.AL.
 
 **</p>**
  Makes you wonder.   How much of our data is hiding? 
+=======
+NARRATOR
+Health analytics is a thing.  
+
+ACRONYMS PARADE ACROSS THE SCREEN: FHIR, NARRATIVE, SPREADSHEET, CSV EXPORTS, APPOINTMENTS
+
+FHIR structures yeah resources.  FHIR.narratives ok.  Spreadsheets all kinds of ad-hoc data.  exports, notes
+
+Ever wonder what hides in all that data?
+
+
+ACRONYMS ARE ALIGNED ACROSS. THEY BEND UPWARD INTO AN ARC.  EYES APPEAR IN THE ARCHWAY.  
+
