@@ -21,32 +21,52 @@ PHRASE SLIDES IN FROM RIGHT TO CENTER.  FIREWORK
 **</p>**
 Makes you wonder.   We can see some data.  
 
+TITLE SLIDES TO THE TOP AND SHRINKS IN SIZE.
 PARADE EHR CDA PACS APPOINTMENTS STAFFING BILLING CLAIMS ET.AL.
 **<p style="text-align:center;">**
 
 **NARRATOR**
 
 **</p>**
-Can we relate different sources? Make connections? And what about all that ad-hoc business?
+Can we relate up different sources? Make connections? And what about all that ad-hoc business?
 
-PARADE SPREADSHEETS CSV MESSAGING ET.AL.
+ACRONYMS PARADE ACROSS THE SCREEN: FHIR, NARRATIVE, SPREADSHEET, CSV EXPORTS, APPOINTMENTS ET.AL.
+ **<p style="text-align:center;">**
+
+**NARRATOR**
+
+**</p>**
+ FHIR structures yeah resources.  FHIR.narratives  Spreadsheets all kinds of ad-hoc data,  exports, notes
+=======
+
+Ever wonder what hides in all that data?
+
+What kinds of insights and understandings are lurking in there?
+
+
+THE QUESTION "WHAT HIDES IN ALL THAT DATA?. SLIDES IN AND CENTERS. IT BENDS  BEND UPWARD INTO AN ARC.  EYES APPEAR IN THE ARCHWAY.  
+ **<p style="text-align:center;">**
+
+**NARRATOR**
+
+**</p>**
+How can we get them out?
+
+SCREEN CLEARS AA SLIDES IN
 
  **<p style="text-align:center;">**
 
 **NARRATOR**
 
 **</p>**
- Makes you wonder.   How much of our data is hiding? 
-=======
-NARRATOR
-Health analytics is a thing.  
 
-ACRONYMS PARADE ACROSS THE SCREEN: FHIR, NARRATIVE, SPREADSHEET, CSV EXPORTS, APPOINTMENTS
+AA stands for associative array.  It is a data structure. Our definition is the one put forth my MIT.  It is a rigorous  definition that is mathematically sound.
+AA is conceptually quite simple.  If you have seen a spread sheet, you have an idea of what an AA is. If you use a spread sheet to maintain data, you likely have an AA in the making.  Just follow a few rules, and you have something that can be readily stored in a database and queried with power. 
 
-FHIR structures yeah resources.  FHIR.narratives ok.  Spreadsheets all kinds of ad-hoc data.  exports, notes
+FHIR, when implemented according to the spec, dovetails nicely with AA.  A FHIR resource can be converted to and from an AA readily.  
 
-Ever wonder what hides in all that data?
+AAs can be aggregated.  Small AAs can be added together into large AAs. AAs can be searched/queried.   They can be navigated.  All can be done with ease.  
 
+Populate an AA with the narrative from a volume of FHIR resources, and search the volume.  
 
-ACRONYMS ARE ALIGNED ACROSS. THEY BEND UPWARD INTO AN ARC.  EYES APPEAR IN THE ARCHWAY.  
 
